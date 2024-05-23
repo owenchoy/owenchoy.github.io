@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Owen Choy",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n\n\nUniversity of California, Santa Barbara | Santa Barbara, CA\nB.S. Environmental Studies | Sept 2020 - June 2024\n\n\n\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018\ndfg d d d\nd d d d d d\nd d d\nd d d\nd d\nd\nd d d d d\ndd\nd\nd d d d d d d d"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Owen Choy",
+    "section": "",
+    "text": "University of California, Santa Barbara | Santa Barbara, CA\nB.S. Environmental Studies | Sept 2020 - June 2024"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Owen Choy",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -7,10 +28,94 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "owenchoy.github.io",
+    "objectID": "index.html#education-timeline",
+    "href": "index.html#education-timeline",
+    "title": "Owen Choy",
+    "section": "Education Timeline",
+    "text": "Education Timeline\n\n\n&lt;div class=\"timeline-content\"&gt;\n  &lt;h3&gt;2020 - 2024&lt;/h3&gt;\n  &lt;p&gt;Bachelor of Science in Computer Science&lt;br&gt;University of Example&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"timeline-content\"&gt;\n  &lt;h3&gt;2016 - 2020&lt;/h3&gt;\n  &lt;p&gt;High School Diploma&lt;br&gt;Example High School&lt;/p&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "University of California, Santa Barbara Sep 2020 – Jun 2024"
+  },
+  {
+    "objectID": "education.html#education-timeline",
+    "href": "education.html#education-timeline",
+    "title": "Education Timeline",
+    "section": "",
+    "text": "&lt;div class=\"timeline-content\"&gt;\n  &lt;h3&gt;2020 - 2024&lt;/h3&gt;\n  &lt;p&gt;Bachelor of Science in Computer Science&lt;br&gt;University of Example&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"timeline-content\"&gt;\n  &lt;h3&gt;2016 - 2020&lt;/h3&gt;\n  &lt;p&gt;High School Diploma&lt;br&gt;Example High School&lt;/p&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "education.html#education",
+    "href": "education.html#education",
+    "title": "Education",
+    "section": "",
+    "text": "University of California, Santa Barbara"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "this is normal\nAIC caveats AIC is only valuable to compare different versions of a model with different permutations of the predictor variables This means: same response variable, different predictors Can’t compare models with different or subset response variables AIC is not meaningful on its own, but only as a comparative score between model version"
+  },
+  {
+    "objectID": "portfolio.html#this-is-header-2",
+    "href": "portfolio.html#this-is-header-2",
+    "title": "Portfolio",
+    "section": "",
+    "text": "this is normal\nAIC caveats AIC is only valuable to compare different versions of a model with different permutations of the predictor variables This means: same response variable, different predictors Can’t compare models with different or subset response variables AIC is not meaningful on its own, but only as a comparative score between model version"
+  },
+  {
+    "objectID": "education.html#university-of-california-santa-barbara",
+    "href": "education.html#university-of-california-santa-barbara",
+    "title": "Education",
+    "section": "University of California, Santa Barbara",
+    "text": "University of California, Santa Barbara\n\nBachelor of Science Environmental Studies\nGPA: 3.89/4.00 Sep 2020 – Jun 2024\n\nRelevant coursework:\nAwards:\nActivities:"
+  },
+  {
+    "objectID": "education.html#california-ecology-and-conservation",
+    "href": "education.html#california-ecology-and-conservation",
+    "title": "Education",
+    "section": "California Ecology and Conservation",
+    "text": "California Ecology and Conservation"
+  },
+  {
+    "objectID": "education.html#university-of-california-santa-barbara-sep-2020-jun-2024",
+    "href": "education.html#university-of-california-santa-barbara-sep-2020-jun-2024",
+    "title": "Education",
+    "section": "University of California, Santa Barbara Sep 2020 – Jun 2024",
+    "text": "University of California, Santa Barbara Sep 2020 – Jun 2024\n\nBachelor of Science Environmental Studies\n\nGPA: 3.89/4.00\nRelevant coursework:\nAwards:\nActivities:"
+  },
+  {
+    "objectID": "education.html#california-ecology-and-conservation-sep-2020-jun-2024",
+    "href": "education.html#california-ecology-and-conservation-sep-2020-jun-2024",
+    "title": "Education",
+    "section": "California Ecology and Conservation Sep 2020 – Jun 2024",
+    "text": "California Ecology and Conservation Sep 2020 – Jun 2024"
+  },
+  {
+    "objectID": "education.html#california-ecology-and-conservation-jun-2023-aug-2023",
+    "href": "education.html#california-ecology-and-conservation-jun-2023-aug-2023",
+    "title": "Education",
+    "section": "California Ecology and Conservation Jun 2023 – Aug 2023",
+    "text": "California Ecology and Conservation Jun 2023 – Aug 2023\n\nProgram Participant | Univeristy of California Nature Reserve System\n\n[convert to paragraph form] Conducted field research methods including sub-sampling techniques, water measurements, physical tree measurements, and phenological data collection.\nDesigned several field research studies and produced two research papers (published one).\nSorted and identified macroinvertebrates in aquatic water samples.\nPresented research findings to undergraduate students, professors, and the public.\nAnalyzed field data with JMP Statistical Software and Microsoft Excel.\nUtilized various field and lab tools, instruments, and equipment.\nGained familiarity with ecological concepts and California flora and fauna identification."
+  },
+  {
+    "objectID": "education.html#national-university-of-singapore-jul-2022-nov-2022",
+    "href": "education.html#national-university-of-singapore-jul-2022-nov-2022",
+    "title": "Education",
+    "section": "National University of Singapore Jul 2022 – Nov 2022",
+    "text": "National University of Singapore Jul 2022 – Nov 2022\n\nExchange Program | University of California Education Abroad Program"
+  },
+  {
+    "objectID": "education.html#national-university-of-singapore-jul-2022-dec-2022",
+    "href": "education.html#national-university-of-singapore-jul-2022-dec-2022",
+    "title": "Education",
+    "section": "National University of Singapore Jul 2022 – Dec 2022",
+    "text": "National University of Singapore Jul 2022 – Dec 2022\n\nExchange Program | University of California Education Abroad Program\nMy desire to travel the world and learn from a new physical and mental perspective led me to a semester abroad on an exchange program at the University of Singapore in Singapore. Located"
   }
 ]

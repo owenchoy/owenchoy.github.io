@@ -2,19 +2,42 @@ project:
   type: website
   output-dir: docs
 
-website:
-  title: "owenchoy.github.io"
+website:  
+  # options: https://quarto.org/docs/reference/projects/websites.html
+  title: "Owen Choy"
   navbar:
+    pinned: true
+    logo: owen choy logos/owen choy black and green.png
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: About Me
+      - education.qmd
+      - portfolio.qmd
+      - photos.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/owen-choy/
+      - icon: github
+        href: https://github.com/owenchoy
+      - icon: envelope
+        href: mailto:owenchoy02@gmail.com
+  page-footer:
+    background: dark # or `light`
+    left: |
+      Owen Choy | Last Updated: May 2024
+    right: Built with [Quarto](https://quarto.org/){target=_blank}
+  favicon: owen choy logos/owen choy black and green.png
+  # sidebar: # https://quarto.org/docs/reference/projects/websites.html#sidebar
+    # style: docked
+  
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - styles.scss # litera or pulse
+    mainfont: sarabun
     toc: true
+    # page-layout: full
+
 
 editor: visual
 

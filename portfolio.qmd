@@ -1,0 +1,19 @@
+---
+title: "Portfolio"
+title-block-banner: true
+---
+
+# This Is Header 1
+
+## this is header 2
+
+### this is header 3
+
+#### this is header 4
+
+##### this is header 5
+
+this is normal
+
+AIC caveats AIC is only valuable to compare different versions of a model with different permutations of the predictor variables This means: same response variable, different predictors Can’t compare models with different or subset response variables AIC is not meaningful on its own, but only as a comparative score between model version
+

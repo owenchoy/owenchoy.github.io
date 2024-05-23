@@ -1,0 +1,37 @@
+---
+title: "Education"
+title-block-banner: true
+---
+
+![](logos/UCSB%20logo.png){fig-alt="University of California Santa Barbara Logo" width="80"}
+
+## University of California, Santa Barbara [Sep 2020 -- Jun 2024]{.programdate}
+
+#### Bachelor of Science Environmental Studies
+
+-   GPA: 3.89/4.00
+-   Relevant coursework:
+-   Awards:
+-   Activities:
+
+![](logos/ceclogo.png){fig-alt="California Ecology and Conservation Logo" width="140"}
+
+## California Ecology and Conservation [Jun 2023 -- Aug 2023]{.programdate}
+
+#### Program Participant | Univeristy of California Nature Reserve System
+
+- [convert to paragraph form] Conducted field research methods including sub-sampling techniques, water measurements, physical tree measurements, and phenological data collection.
+- Designed several field research studies and produced two research papers (published one).
+- Sorted and identified macroinvertebrates in aquatic water samples.
+- Presented research findings to undergraduate students, professors, and the public.
+- Analyzed field data with JMP Statistical Software and Microsoft Excel.
+- Utilized various field and lab tools, instruments, and equipment.
+- Gained familiarity with ecological concepts and California flora and fauna identification.
+
+![](logos/nuslogo.png){fig-alt="National University of Singapore Logo" width="130"}
+
+## National University of Singapore [Jul 2022 -- Dec 2022]{.programdate}
+
+#### Exchange Program | University of California Education Abroad Program
+
+My desire to travel the world and learn from a new physical and mental perspective led me to a semester abroad on an exchange program at the University of Singapore in Singapore. Located 

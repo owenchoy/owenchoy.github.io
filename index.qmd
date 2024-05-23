@@ -1,11 +1,14 @@
 ---
-title: "owenchoy.github.io"
+title: "Owen Choy"
+title-block-banner: true
+editor_options: 
+  chunk_output_type: console
+image: me.jpg
+toc: false
+about: 
+  template: solana
+  image-shape: round
+  image-width: 15em
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hey there! I am currently an undergraduate student at the University of California, Santa Barbara
