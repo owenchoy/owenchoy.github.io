@@ -3,17 +3,10 @@ title: "Portfolio"
 title-block-banner: true
 ---
 
-# This Is Header 1
+::: intro
+This page houses some pieces of my work from the past few years.
+:::
 
-## this is header 2
+#### [Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities](Relationship%20between%20River%20Water%20Flow%20Rate,%20Periphyton%20Abundance%20and%20Macroinvertebrate%20Communities.pdf) [Aug 2023]{.programdate}
 
-### this is header 3
-
-#### this is header 4
-
-##### this is header 5
-
-this is normal
-
-AIC caveats AIC is only valuable to compare different versions of a model with different permutations of the predictor variables This means: same response variable, different predictors Can’t compare models with different or subset response variables AIC is not meaningful on its own, but only as a comparative score between model version
-
+![](portfolio files/Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities.pdf)

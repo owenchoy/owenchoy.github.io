@@ -56,8 +56,9 @@ h1 { // settings for h1 heading text
   font-variant: small-caps;
 }
 
-h2 {
+.h4 {
   color: $red;
+  margin-top: 10.5rem;
 }
 
 h3 {
@@ -80,10 +81,19 @@ p {
 // specifics
 .programdate {
   text-align: right;
-  float: right;
+  # float: right;
   font-size: $normal-font-size;
   font-weight: 300;
   color: $black;
   font-style: italic;
 }
 
+.logo {
+  align-content: baseline;
+  padding: 15px;
+}
+
+.intro {
+  //backround block with color
+  
+}
