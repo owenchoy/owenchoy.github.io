@@ -3,7 +3,7 @@ title: "Owen Choy"
 title-block-banner: true
 editor_options: 
   chunk_output_type: console
-image: me.jpg
+image: logos/me.jpg
 toc: false
 about: 
   template: solana

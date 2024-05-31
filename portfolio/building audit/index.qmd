@@ -3,7 +3,7 @@ title: "Case Study: University Center"
 description: A building audit on the University Center on the campus of UC Santa Barbara.
 author: Owen Choy
 date: 07-22-2023
-# image: preview-image.png
+image: UCEN.jpg
 ---
 
 This is

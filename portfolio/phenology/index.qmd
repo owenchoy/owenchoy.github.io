@@ -3,7 +3,7 @@ title: "The effect of snowpack and temperature on the phenology of montane chapa
 # description: 
 author: Owen Choy
 date: 07-22-2023
-# image: preview-image.png
+image: phenology.jpg
 ---
 
 This is

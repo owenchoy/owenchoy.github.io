@@ -3,7 +3,7 @@ title: "Giant Otter Conservation Plan"
 description: the plan
 author: Owen Choy
 date: June 3, 2022
-# image: preview-image.png
+image: otter.jpg
 ---
 
 This is

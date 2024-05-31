@@ -10,13 +10,6 @@
     ]
   },
   {
-    "listing": "/portfolio/index.html",
-    "items": [
-      "/portfolio/posts/post-with-code/index.html",
-      "/portfolio/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/portfolio directory/index.html",
     "items": [
       "/portfolio directory/posts/post-with-code/index.html",

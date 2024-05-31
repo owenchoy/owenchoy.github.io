@@ -1,87 +1,10 @@
 [
   {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education",
-    "section": "",
-    "text": "University of California, Santa Barbara Sep 2020 – Jun 2024\n\n\nBachelor of Science Environmental Studies\n\nGPA: 3.89/4.00\nRelevant Coursework: Environmental Impact Analysis, Environmental Planning, Conservation Planning, Climate Change Mitigation Strategies, Water Supply & Demand\nAwards, Honors, and Scholarships\n\nCollege of Letters and Science Honors (Jun 2024)\nStarting Lines Award for Photography (Jan 2023)\nUCSB EAP Gaucho Scholarship (Apr 2022)\nStapelmann Scholarship (Jun 2021)\nDean’s list: 7 quarters (2020-2023)\n\n\n\n\n\n\nCalifornia Ecology and Conservation Jun 2023 – Aug 2023\n\n\n\nProgram Participant | University of California Nature Reserve System\n\n[convert to paragraph form] Conducted field research methods including sub-sampling techniques, water measurements, physical tree measurements, and phenological data collection.\nDesigned several field research studies and produced two research papers (published one).\nSorted and identified macroinvertebrates in aquatic water samples.\nPresented research findings to undergraduate students, professors, and the public.\nAnalyzed field data with JMP Statistical Software and Microsoft Excel.\nUtilized various field and lab tools, instruments, and equipment.\nGained familiarity with ecological concepts and California flora and fauna identification.\n\n\n\n\n\nNational University of Singapore Jul 2022 – Dec 2022\n\n\n\nExchange Program | University of California Education Abroad Program\nMy desire to travel the world and learn from a new physical and mental perspective led me to a semester abroad on an exchange program at the University of Singapore in Singapore. Located"
-  },
-  {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "This page houses some pieces of my work from the past few years.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRelationship between river water flow rate, periphyton abundance and macroinvertebrate communities\n\n\n\n\n\n\nOwen Choy\n\n\nAug 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nQuokka Conservation Act of 2022\n\n\n\n\n\n\nOwen Choy\n\n\nJul 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nCase Study: University Center\n\n\nA building audit on the University Center on the campus of UC Santa Barbara.\n\n\n\nOwen Choy\n\n\nJul 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nThe effect of snowpack and temperature on the phenology of montane chaparral species\n\n\n\n\n\n\nOwen Choy\n\n\nJul 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nGiant Otter Conservation Plan\n\n\nthe plan\n\n\n\nOwen Choy\n\n\nJun 3, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "portfolio/index.html",
-    "href": "portfolio/index.html",
-    "title": "portfolio",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 30, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "portfolio/posts/post-with-code/index.html",
-    "href": "portfolio/posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "portfolio/posts/welcome/index.html",
-    "href": "portfolio/posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "portfolio/about.html",
-    "href": "portfolio/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "portfolio directory/about.html",
-    "href": "portfolio directory/about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "portfolio directory/posts/welcome/index.html",
-    "href": "portfolio directory/posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "portfolio directory/posts/post-with-code/index.html",
-    "href": "portfolio directory/posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "portfolio directory/index.html",
-    "href": "portfolio directory/index.html",
-    "title": "portfolio",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 30, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nRelationship between river water flow rate, periphyton abundance and macroinvertebrate communities\n\n\n\n\n\n\n\n\n\n\n\nAug 20, 2023\n\n\nOwen Choy\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Owen Choy",
-    "section": "",
-    "text": "Hey there! I am currently an undergraduate student at the University of California, Santa Barbara"
-  },
-  {
-    "objectID": "portfolio/algae/index.html",
-    "href": "portfolio/algae/index.html",
-    "title": "Relationship between river water flow rate, periphyton abundance and macroinvertebrate communities",
-    "section": "",
-    "text": "This is\nYou can also read the article here: Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities"
+    "text": "This page houses some pieces of my work from the past few years.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRelationship between river water flow rate, periphyton abundance and macroinvertebrate communities\n\n\n\n\n\n\nOwen Choy\n\n\nAug 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuokka Conservation Act of 2022\n\n\n\n\n\n\nOwen Choy\n\n\nJul 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCase Study: University Center\n\n\nA building audit on the University Center on the campus of UC Santa Barbara.\n\n\n\nOwen Choy\n\n\nJul 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe effect of snowpack and temperature on the phenology of montane chaparral species\n\n\n\n\n\n\nOwen Choy\n\n\nJul 22, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGiant Otter Conservation Plan\n\n\nthe plan\n\n\n\nOwen Choy\n\n\nJun 3, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio/phenology/index.html",
@@ -91,11 +14,67 @@
     "text": "This is\nYou can also read the article here: The effect of snowpack and temperature on the phenology of montane chaparral species"
   },
   {
-    "objectID": "portfolio/building audit/index.html",
-    "href": "portfolio/building audit/index.html",
-    "title": "Case Study: University Center",
+    "objectID": "portfolio/otter conservation plan/index.html",
+    "href": "portfolio/otter conservation plan/index.html",
+    "title": "Giant Otter Conservation Plan",
     "section": "",
-    "text": "This is\nYou can also read the article here: Case Study: University Center"
+    "text": "This is\nYou can also read the article here: Giant Otter Conservation Plan"
+  },
+  {
+    "objectID": "portfolio/algae/index.html",
+    "href": "portfolio/algae/index.html",
+    "title": "Relationship between river water flow rate, periphyton abundance and macroinvertebrate communities",
+    "section": "",
+    "text": "This is\nYou can also read the article here: Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "portfolio directory/about.html",
+    "href": "portfolio directory/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "portfolio directory/posts/post-with-code/index.html",
+    "href": "portfolio directory/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "portfolio directory/posts/welcome/index.html",
+    "href": "portfolio directory/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio directory/index.html",
+    "href": "portfolio directory/index.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 30, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nRelationship between river water flow rate, periphyton abundance and macroinvertebrate communities\n\n\n\n\n\n\n\n\n\n\n\nAug 21, 2023\n\n\nOwen Choy\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Owen Choy",
+    "section": "",
+    "text": "Hey there! I am currently an undergraduate student at the University of California, Santa Barbara"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "University of California, Santa Barbara Sep 2020 – Jun 2024\n\n\nBachelor of Science Environmental Studies\n\nGPA: 3.89/4.00\nRelevant Coursework: Environmental Impact Analysis, Environmental Planning, Conservation Planning, Climate Change Mitigation Strategies, Water Supply & Demand\nAwards, Honors, and Scholarships\n\nCollege of Letters and Science Honors (Jun 2024)\nStarting Lines Award for Photography (Jan 2023)\nUCSB EAP Gaucho Scholarship (Apr 2022)\nStapelmann Scholarship (Jun 2021)\nDean’s list: 7 quarters (2020-2023)\n\n\n\n\n\n\nCalifornia Ecology and Conservation Jun 2023 – Aug 2023\n\n\n\nProgram Participant | University of California Nature Reserve System\n\n[convert to paragraph form] Conducted field research methods including sub-sampling techniques, water measurements, physical tree measurements, and phenological data collection.\nDesigned several field research studies and produced two research papers (published one).\nSorted and identified macroinvertebrates in aquatic water samples.\nPresented research findings to undergraduate students, professors, and the public.\nAnalyzed field data with JMP Statistical Software and Microsoft Excel.\nUtilized various field and lab tools, instruments, and equipment.\nGained familiarity with ecological concepts and California flora and fauna identification.\n\n\n\n\n\nNational University of Singapore Jul 2022 – Dec 2022\n\n\n\nExchange Program | University of California Education Abroad Program\nMy desire to travel the world and learn from a new physical and mental perspective led me to a semester abroad on an exchange program at the University of Singapore in Singapore. Located"
   },
   {
     "objectID": "portfolio/quokka conservation act/index.html",
@@ -105,10 +84,10 @@
     "text": "This is\nYou can also read the article here: Quokka Conservation Act of 2022"
   },
   {
-    "objectID": "portfolio/otter conservation plan/index.html",
-    "href": "portfolio/otter conservation plan/index.html",
-    "title": "Giant Otter Conservation Plan",
+    "objectID": "portfolio/building audit/index.html",
+    "href": "portfolio/building audit/index.html",
+    "title": "Case Study: University Center",
     "section": "",
-    "text": "This is\nYou can also read the article here: Giant Otter Conservation Plan"
+    "text": "This is\nYou can also read the article here: Case Study: University Center"
   }
 ]
