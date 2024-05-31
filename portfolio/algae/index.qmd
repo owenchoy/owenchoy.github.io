@@ -1,0 +1,12 @@
+---
+title: "Relationship between river water flow rate, periphyton abundance and macroinvertebrate communities"
+# description: 
+author: Owen Choy
+date: 08-22-2023
+# image: preview-image.png
+---
+This is 
+
+You can also read the article here: [Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities](https://doi.org/10.21973/N3DW9D)
+
+![](Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities.pdf){fig-align="center" width="100%" height="800px"}

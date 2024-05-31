@@ -27,7 +27,7 @@ $navbar-hl: $green1; // highlight color when hovering over navbar links
 $body-bg: $cream; // page background 
 $body-color: $black; // page text 
 $footer-bg: $blue3; // footer 
-$link-color: $purple; // hyperlinks 
+$link-color: $green2; // hyperlinks 
 
 // font size
 $title-font-size: 50px;
@@ -50,10 +50,10 @@ $code-color: $red; // inline code text color
   color: $red;
 }
 
-h1 { // settings for h1 heading text
+// settings for h1 heading text
+h1 { 
   color: $blue2;
   font-weight: 900;
-  font-variant: small-caps;
 }
 
 .h4 {

@@ -1,0 +1,13 @@
+---
+title: "The effect of snowpack and temperature on the phenology of montane chaparral species"
+# description: 
+author: Owen Choy
+date: 07-22-2023
+# image: preview-image.png
+---
+
+This is
+
+You can also read the article here: [The effect of snowpack and temperature on the phenology of montane chaparral species](https://doi.org/10.21973/N3DW9D)
+
+![](The effect of snowpack and temperature on the phenology of montane chaparral species.pdf){fig-align="center" width="100%" height="800px"}
