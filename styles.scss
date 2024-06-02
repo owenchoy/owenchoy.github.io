@@ -1,3 +1,4 @@
+// https://quarto.org/docs/output-formats/html-themes.html
 /*-- scss:defaults --*/
 
 //font theme
@@ -8,6 +9,8 @@ $sarabun: "Sarabun";
 
 // Colors
 $cream: #FFFCF7;
+$light-gray: #ffe8e8;
+$gray: #656565;
 $black: #000000;
 $green3: #134130FF; 
 $green2: #4C825DFF; 
@@ -16,22 +19,23 @@ $blue1: #8DC7DCFF;
 $blue2: #508CA7FF;
 $blue3: #1A5270FF;
 $blue4: #0E2A4DFF;
-$red: #E31212;
+$red: #c30000;
 $purple: #B1A1CCFF;
 
 
 // Base document colors
-$navbar-bg: $blue3; // navbar
-$navbar-fg: $cream; // navbar foreground elements
-$navbar-hl: $green1; // highlight color when hovering over navbar links
+$navbar-bg: $black; // navbar background color
+$navbar-fg: $cream; // navbar foreground color
 $body-bg: $cream; // page background 
-$body-color: $black; // page text 
-$footer-bg: $blue3; // footer 
-$link-color: $green2; // hyperlinks 
+$body-color: $black; // page text color
+$footer-bg: $black; // footer background
+$footer-fg: $red; //footer foreground
+$link-color: $red; // hyperlinks 
 
 // font size
-$title-font-size: 50px;
+$title-font-size: 40px;
 $normal-font-size: 18px;
+$caption-font-size: 16px;
 
 
  /*-- scss:rules --*/
@@ -41,35 +45,73 @@ $code-bg: $cream; // inline code background color
 $code-color: $red; // inline code text color
 
 // headings
-.title { //title for each page
-  color: $green3;;
-  font-size: $title-font-size;
+#title-block-header.quarto-title-block.default .description{
+  color: $cream; //working
+  margin-top: 10em; //not working
 }
 
-.red_text{
+#title-block-header.quarto-title-block.default .quarto-title .title {
+  color: $red; //working
+  margin-bottom: 10em; // not working
+}
+
+h1.title, .title.h1 {
+    margin-top: 100rem;
+}
+
+.h1, .h2, .h3, .h4, h1, h2, h3, h4 {
+  color: $purple;
+}
+
+
+
+.title { //title for each page WORKS!
+  color: $red;
+  font-size: $title-font-size;
+  margin-bottom: 100rem;
+}
+
+//red text
+.red-text{
   color: $red;
 }
 
-// settings for h1 heading text
-h1 { 
-  color: $blue2;
-  font-weight: 900;
+//photo captions
+.caption {
+  text-align: left;
+  # float: right;
+  font-size: $caption-font-size;
+  font-weight: 300;
+  color: $gray;
+  font-style: italic;
+  padding-top: 0.5em; // or margin-top
+  padding-bottom: 0em;
 }
 
+.top-padding {
+  padding-top: 2em;
+}
+
+// settings for heading text (not working)
 .h4 {
   color: $red;
-  margin-top: 10.5rem;
 }
 
-h3 {
+p.h4 {
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+}
+
+.h2 {
   color: $red;
 }
-
 
 p {
   font-size: $normal-font-size;
-  color: $black;
+  color: inherit;
   font-family: Sarabun;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
 }
 
 // navbar logo
@@ -86,14 +128,34 @@ p {
   font-weight: 300;
   color: $black;
   font-style: italic;
+  margin-top: 0em;
+  margin-bottom: 0em;
 }
 
 .logo {
   align-content: baseline;
-  padding: 15px;
+  padding: 0em;
 }
 
-.intro {
+//blocks
+.intro-block {
   //backround block with color
-  
+  background-color: $light-gray;
+  padding-block: 1rem; //colored portion block: top/bottom boundaries
+  padding-inline: 2rem;
+  margin-bottom: 1rem; //background portion
+}
+
+.block1 {
+  background-color: $red;
+}
+
+//footer
+footer.footer {
+  color: $red;
+}
+
+#no-padding {
+  margin-top: 0em;
+  margin-bottom: 0em;
 }

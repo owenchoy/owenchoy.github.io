@@ -2,3 +2,26 @@
 title: "Photos"
 title-block-banner: true
 ---
+<head>
+<body>
+
+<div>
+<h1>
+this should be header 1
+</h1>
+
+::: {.h2}
+this should be header 2
+:::
+
+::: {.h3}
+this should be header 3
+:::
+
+::: {.h4}
+this should be header 4
+:::
+</div>
+
+</body>
+</head>

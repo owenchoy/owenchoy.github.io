@@ -6,9 +6,12 @@ listing:
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
   sort: "date desc" # can also sort on more than one field
   categories: false # allows you to sort posts by assigned categories 
+toc: false
 ---
 
-::: intro
-This page houses some pieces of my work from the past few years.
+::: {.intro-block}
+<p id="no-padding">
+This page houses some pieces of my work from the past few years. Currently, it includes a variety of projects, including two research papers, a building audit, a conservation plan, and a mock conservation bill. All of these projects were completed as a part of coursework. In the future, I hope to polish up some of my old projects for display and include new projects as well. 
+</p>
 :::
 

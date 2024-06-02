@@ -4,6 +4,7 @@ description: A building audit on the University Center on the campus of UC Santa
 author: Owen Choy
 date: 07-22-2023
 image: UCEN.jpg
+toc: false
 ---
 
 This is

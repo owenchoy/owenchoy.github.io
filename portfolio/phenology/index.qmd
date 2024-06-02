@@ -1,13 +1,30 @@
 ---
 title: "The effect of snowpack and temperature on the phenology of montane chaparral species"
-# description: 
+description: solo paper
 author: Owen Choy
 date: 07-22-2023
 image: phenology.jpg
+toc: false
+
+todo: 
+  - 
 ---
 
-This is
+# [The Project]{.red-text}
 
-You can also read the article here: [The effect of snowpack and temperature on the phenology of montane chaparral species](https://doi.org/10.21973/N3DW9D)
+
+![](phenology.jpg)
+<p class="caption">
+The study site: the South Fork Eel River.
+</p>
+
+
+
+# [The Experience]{.red-text}
+
+
+# [The Product]{.red-text}
 
 ![](The effect of snowpack and temperature on the phenology of montane chaparral species.pdf){fig-align="center" width="100%" height="800px"}
+
+You can also read the article here: [The effect of snowpack and temperature on the phenology of montane chaparral species](https://doi.org/10.21973/N3DW9D)

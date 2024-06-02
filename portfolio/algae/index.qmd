@@ -1,14 +1,38 @@
 ---
 title: "Relationship between river water flow rate, periphyton abundance and macroinvertebrate communities"
-# description: 
-author: Owen Choy
+description: My first published research paper!
 date: 08-22-2023
-image: algae.jpg
----
-This is 
+image: algae.jpg 
+toc: false
 
-You can also read the article here: [Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities](https://doi.org/10.21973/N3DW9D)
+todo:
+  - fix bottom link
+  - fix aesthetics
+  - future: add photos of research experience
+---
+
+# [The Project]{.red-text}
+
+This research paper is the product of a research project I conducted with three other University of California undergraduate students during our California Ecology and Conservation program in the summer of 2023. This study was conducted on the South Fork Eel River in the Angelo Coast Range Reserve in northern California. Under a 5-day period of data collection and over just a 2-week span, we examined the effect of stream water flow characteristics on the abundance of algae and diatoms in the river, as well as how both of these factors influenced aquatic macroinvertebrate density and community composition. We spent long days traversing through the river to collect water and periphyton samples to analyze in our makeshift lab the same evening. We shared our research process and our findings in a PowerPoint presentation to an audience comprised of our program instructors, other fellow undergraduates, and their family members. Our paper was published a few months later in a collection of the cohort's research projects. 
+
+![](algae.jpg)
+<p class="caption">
+The study site: the South Fork Eel River.
+</p>
+
+
+# [The Experience]{.red-text}
+
+During this research project, I learned a lot about the ecology of freshwater stream systems, algae and diatoms, aquatic macroinvertebrate identification, data analysis using JMP Software, and paper writing. My projects and research in the past usually dealt with stationary components: plants and with my feet planted on the ground (quadrats are so much easier to analyze when they're not moving!). So trudging my way through chest-high waters while collecting samples of wavering pieces of algae without getting water into my waders was quite the experience. The macro- and microinvertebrates constantly moving around in our little petri dishes while trying to pick them up and identify them under a microscope is hard to forget, too. But the experience was rewarding. On an ecological level, I learned about algae and diatoms and their trophic interactions and their role in stream health. I learned about the orders and groups of some common macroinvertebrates in freshwater streams and how to identify them. I even started to dive into the minute world of aquatic microorganisms because I was fascinated by the tiny dots that can barely be seen with the naked eye darting around in the water (which was beyond the scope of our project but amazing to see!). 
+
+And of course, the product of me and my collaborators' work was also the fulfillment of the development of my interpersonal skills. I learned a lot about patience, collaboration, and how to deal with roadblocks within the group and project. My team and I were under a strict time crunch for this project. The whole thing was conceptualized, piloted, reworked, fully conducted, statistically analyzed, written, presented, and prepared for publication in the span of two weeks. That left very little room for fixing errors or time to refine the research process. We spent long hours in the sun, water, and in waders. ****coninue later******
+
+
+# [The Product]{.red-text}
+
 
 ![](Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities.pdf){fig-align="center" width="100%" height="800px"}
 
+
+You can also read the article here: [Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities](https://doi.org/10.21973/N3DW9D)
 

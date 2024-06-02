@@ -11,4 +11,8 @@ about:
   image-width: 15em
 ---
 
+::: {.intro-block}
+<p id="no-padding">
 Hey there! I am currently an undergraduate student at the University of California, Santa Barbara
+</p>
+:::

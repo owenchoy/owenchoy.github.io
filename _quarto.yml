@@ -20,11 +20,11 @@ website:
       - icon: github
         href: https://github.com/owenchoy
       - icon: envelope
-        href: mailto:owenchoy02@gmail.com
+        href: owenchoy02@gmail.com
   page-footer:
     background: dark # or `light`
     left: |
-      Owen Choy | Last Updated: May 2024
+      Owen Choy | Last Updated: June 2024
     right: Built with [Quarto](https://quarto.org/){target=_blank}
   favicon: logos/owen choy logos/owen choy black and green.png
   # sidebar: # https://quarto.org/docs/reference/projects/websites.html#sidebar
@@ -34,9 +34,14 @@ format:
   html:
     theme: 
       - styles.scss # litera or pulse
-    mainfont: sarabun
+    mainfont: Sarabun
     toc: true
+    grid:
+      sidebar-width: 250px
+      body-width: 900px # slightly wider body than default
+      margin-width: 250px
+      gutter-width: 1rem
     # page-layout: full
-
+    
 editor: source
 

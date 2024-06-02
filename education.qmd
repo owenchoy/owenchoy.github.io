@@ -2,26 +2,38 @@
 title: "Education"
 title-block-banner: true
 toc: false
+
+todo:
+  - fix aesthetics
+  - add descriptions for last 2
+  - futrue: add blog posts for relevant coursework
 ---
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: {.logo}
 ![](logos/UCSBlogo.png){fig-alt="University of California Santa Barbara Logo" height="40"}
 :::
 
-[University of California, Santa Barbara]{.h2} [Sep 2020 -- Jun 2024]{.programdate}
+[University of California, Santa Barbara]{.h2} 
+::: {.programdate}
+Sep 2020 -- Jun 2024
+:::
+
 :::
 
 
-#### Bachelor of Science Environmental Studies
+[Bachelor of Science Environmental Studies]{.h4}
 
 -   GPA: 3.89/4.00
 -   Relevant Coursework: Environmental Impact Analysis, Environmental Planning, Conservation Planning, Climate Change Mitigation Strategies, Water Supply & Demand
--   Awards, Honors, and Scholarships
-    -   College of Letters and Science Honors (Jun 2024)
-    -   Starting Lines Award for Photography (Jan 2023)
-    -   UCSB EAP Gaucho Scholarship (Apr 2022)
-    -   Stapelmann Scholarship (Jun 2021)
-    -   Dean's list: 7 quarters (2020-2023)
+-   Awards and Scholarships
+    -   2024: College of Letters and Science Honors
+    -   2023: Starting Lines Award for Photography
+    -   2020-2023: Dean's list: 7 quarters
+    -   2022: UCSB Griffiths Charitable EAP Scholarship ($2,350)
+    -   2021: Stapelmann Scholarship ($2,000)
+
+<!-- extra line -->
+<br> 
 
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: {.logo}
@@ -30,7 +42,7 @@ toc: false
 [California Ecology and Conservation]{.h2} [Jun 2023 -- Aug 2023]{.programdate}
 :::
 
-#### Program Participant \| University of California Nature Reserve System
+[Program Participant \| University of California Nature Reserve System]{.h4}
 
 -   \[convert to paragraph form\] Conducted field research methods including sub-sampling techniques, water measurements, physical tree measurements, and phenological data collection.
 -   Designed several field research studies and produced two research papers (published one).
@@ -40,6 +52,9 @@ toc: false
 -   Utilized various field and lab tools, instruments, and equipment.
 -   Gained familiarity with ecological concepts and California flora and fauna identification.
 
+<br>
+
+
 ::: {.d-inline-flex style="align-items:baseline"}
 ::: {.logo}
 ![](logos/nuslogo.png){fig-alt="National University of Singapore Logo" height="40"}
@@ -47,7 +62,7 @@ toc: false
 [National University of Singapore]{.h2} [Jul 2022 -- Dec 2022]{.programdate}
 :::
 
-#### Exchange Program \| University of California Education Abroad Program
+[Exchange Program \| University of California Education Abroad Program]{.h4}
 
 
 My desire to travel the world and learn from a new physical and mental perspective led me to a semester abroad on an exchange program at the University of Singapore in Singapore. Located

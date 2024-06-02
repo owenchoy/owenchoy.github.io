@@ -4,6 +4,7 @@ title: "Quokka Conservation Act of 2022"
 author: Owen Choy
 date: 07-22-2023
 image: quokka.jpg
+toc: false
 ---
 
 This is
