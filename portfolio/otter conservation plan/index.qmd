@@ -9,6 +9,10 @@ toc: false
 
 This is
 
-You can also read the article here: [Giant Otter Conservation Plan](https://doi.org/10.21973/N3DW9D)
+<div class="resize">
+<iframe src="Giant Otter Conservation Plan.pdf" class="iframe-style"></iframe>
+</div>
 
-![](Giant Otter Conservation Plan.pdf){fig-align="center" width="100%" height="800px"}
+<br>
+
+You can also read the article here: [Giant Otter Conservation Plan](https://doi.org/10.21973/N3DW9D)

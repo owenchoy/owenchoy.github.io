@@ -30,9 +30,11 @@ And of course, the product of me and my collaborators' work was also the fulfill
 
 # [The Product]{.red-text}
 
+<div class="resize">
+<iframe src="Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities.pdf" class="iframe-style"></iframe>
+</div>
 
-![](Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities.pdf){fig-align="center" width="100%" height="800px"}
-
+<br>
 
 You can also read the article here: [Relationship between River Water Flow Rate, Periphyton Abundance and Macroinvertebrate Communities](https://doi.org/10.21973/N3DW9D)
 

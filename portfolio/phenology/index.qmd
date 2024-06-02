@@ -25,6 +25,12 @@ The study site: the South Fork Eel River.
 
 # [The Product]{.red-text}
 
-![](The effect of snowpack and temperature on the phenology of montane chaparral species.pdf){fig-align="center" width="100%" height="800px"}
+
+
+<div class="resize">
+<iframe src="The effect of snowpack and temperature on the phenology of montane chaparral species.pdf" class="iframe-style"></iframe>
+</div>
+
+<br>
 
 You can also read the article here: [The effect of snowpack and temperature on the phenology of montane chaparral species](https://doi.org/10.21973/N3DW9D)
