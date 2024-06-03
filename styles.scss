@@ -44,23 +44,27 @@ $caption-font-size: 16px;
 $code-bg: $cream; // inline code background color
 $code-color: $red; // inline code text color
 
-// headings
-#title-block-header.quarto-title-block.default .description{
+// title banner
+#title-block-header.quarto-title-block.default .description {
   color: $cream; //working
-  margin-top: 10em; //not working
+  margin-top: 0.5rem !important; // working
 }
 
 #title-block-header.quarto-title-block.default .quarto-title .title {
   color: $red; //working
-  margin-bottom: 10em; // not working
 }
 
-h1.title, .title.h1 {
-    margin-top: 100rem;
+//date published
+#title-block-header {
+    margin-block-end: 0rem !important;
+    position: relative;
+    margin-top: -1px;
 }
 
-.h1, .h2, .h3, .h4, h1, h2, h3, h4 {
-  color: $purple;
+// main blog content chunk
+main {
+    margin-top: 0em !important;
+    margin-bottom: 1em;
 }
 
 

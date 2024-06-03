@@ -9,6 +9,10 @@ todo:
   - fix bottom link
   - fix aesthetics
   - future: add photos of research experience
+  
+questions:
+  - how to change title banner margin-bottom
+  - how to change margin above 'The Project'
 ---
 
 # [The Project]{.red-text}
