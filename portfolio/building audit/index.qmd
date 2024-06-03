@@ -5,6 +5,7 @@ author: Owen Choy
 date: 07-22-2023
 image: UCEN.jpg
 toc: false
+
 ---
 
 This is
@@ -15,5 +16,6 @@ This is
 
 <br>
 
+<!-- change pdf file name -->
 You can also read the article here: [Case Study: University Center](https://owenchoy.github.io/portfolio/building%20audit/building-audit.pdf)
 
