@@ -15,5 +15,5 @@ This is
 
 <br>
 
-You can also read the article here: [Case Study: University Center](https://doi.org/10.21973/N3DW9D)
+You can also read the article here: [Case Study: University Center](https://owenchoy.github.io/portfolio/building%20audit/building-audit.pdf)
 
