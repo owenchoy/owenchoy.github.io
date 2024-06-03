@@ -33,7 +33,7 @@ website:
 format:
   html:
     theme: 
-      - styles.scss # litera or pulse
+      - styles.scss 
     mainfont: Sarabun
     toc: true
     grid:
