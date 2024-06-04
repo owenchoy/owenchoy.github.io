@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  
+editor: source
 
 website:  
   # options: https://quarto.org/docs/reference/projects/websites.html
@@ -20,15 +22,27 @@ website:
       - icon: github
         href: https://github.com/owenchoy
       - icon: envelope
-        href: owenchoy02@gmail.com
+        href: mailto:owenchoy02@gmail.com
+        
   page-footer:
-    background: dark # or `light`
+    background: dark
     left: |
-      Owen Choy | Last Updated: June 2024
+      Owen Choy
+      <br>
+      Last Updated: June 2024
     right: Built with [Quarto](https://quarto.org/){target=_blank}
+    
   favicon: logos/owen choy logos/owen choy black and green.png
   # sidebar: # https://quarto.org/docs/reference/projects/websites.html#sidebar
     # style: docked
+    
+  search: 
+    location: navbar
+    type: textbox
+    
+  google-analytics: 
+    tracking-id: G-M1TLPMSPTR
+    storage: none
   
 format:
   html:
@@ -43,5 +57,4 @@ format:
       gutter-width: 1rem
     # page-layout: full
     
-editor: source
 
