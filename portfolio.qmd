@@ -9,7 +9,7 @@ listing:
 toc: false
 ---
 
-::: {.intro-block}
+::: {.red-block}
 <p id="no-padding">
 This page houses some pieces of my work from the past few years. Currently, it includes a variety of projects, including two research papers, a building audit, a conservation plan, and a mock conservation bill. All of these projects were completed as a part of coursework. In the future, I hope to polish up some of my old projects for display and include new projects as well. 
 </p>

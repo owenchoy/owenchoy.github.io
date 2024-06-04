@@ -28,5 +28,3 @@ this should be header 4
 </body>
 
 </head>
-
-![](photos/deletions.png)

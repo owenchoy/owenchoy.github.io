@@ -1,20 +1,17 @@
 ---
-title: "Relationship between river water flow rate, periphyton abundance and macroinvertebrate communities"
+title: "Algae and Diatoms: The Home of Aquatic Macroinvertebrate Communities"
 description: My first published research paper!
 date: 08-22-2023
 image: algae.jpg 
 toc: false
 
 todo:
-  - fix bottom link
-  - fix aesthetics
   - future: add photos of research experience
   
 questions:
   - how to change title banner margin-bottom
   - how to change margin above 'The Project'
 ---
-## new change
 
 # [The Project]{.red-text}
 

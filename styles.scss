@@ -9,7 +9,10 @@ $sarabun: "Sarabun";
 
 // Colors
 $cream: #FFFCF7;
-$light-gray: #ffe8e8;
+$light-red: #ffe8e8;
+$light-gray: #ededed;
+$light-purple: #ede3ef;
+
 $gray: #656565;
 $black: #000000;
 $green3: #134130FF; 
@@ -20,20 +23,21 @@ $blue2: #508CA7FF;
 $blue3: #1A5270FF;
 $blue4: #0E2A4DFF;
 $red: #c30000;
-$purple: #B1A1CCFF;
+$purple: #9a35a9;
 
 
 // Base document colors
+$main-color: $red;
 $navbar-bg: $black; // navbar background color
 $navbar-fg: $cream; // navbar foreground color
 $body-bg: $cream; // page background 
 $body-color: $black; // page text color
 $footer-bg: $black; // footer background
-$footer-fg: $red; //footer foreground
-$link-color: $red; // hyperlinks 
+$footer-fg: $main-color; //footer foreground
+$link-color: $main-color; // hyperlinks 
 
 // font size
-$title-font-size: 40px;
+$title-font-size: 50px;
 $normal-font-size: 18px;
 $caption-font-size: 16px;
 
@@ -51,7 +55,18 @@ $code-color: $red; // inline code text color
 }
 
 #title-block-header.quarto-title-block.default .quarto-title .title {
-  color: $red; //working
+  color: $main-color; //working
+}
+
+.title { //title for each page WORKS!
+  color: $main-color;
+  font-size: $title-font-size;
+  margin-bottom: 100rem;
+}
+
+// description title, subtitle
+.description {
+  font-size: 20px;
 }
 
 //date published
@@ -68,22 +83,14 @@ main {
 }
 
 
-
-.title { //title for each page WORKS!
-  color: $red;
-  font-size: $title-font-size;
-  margin-bottom: 100rem;
-}
-
 //red text
 .red-text{
-  color: $red;
+  color: $main-color;
 }
 
-//photo captions
+// photo captions
 .caption {
-  text-align: left;
-  # float: right;
+  text-align: center;
   font-size: $caption-font-size;
   font-weight: 300;
   color: $gray;
@@ -118,16 +125,20 @@ p {
   margin-bottom: 0rem;
 }
 
-// navbar logo
-.navbar-brand img { 
+// navbar 
+.navbar-brand img { // navbar logo
   max-height: 40px;
   width: auto;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show { // navbar selected tab color
+  color: $red !important;
 }
 
 // specifics
 .programdate {
   text-align: right;
-  # float: right;
+  float: right;
   font-size: $normal-font-size;
   font-weight: 300;
   color: $black;
@@ -141,39 +152,50 @@ p {
   padding: 0em;
 }
 
-//blocks
-.intro-block {
-  //backround block with color
-  background-color: $light-gray;
-  padding-block: 1rem; //colored portion block: top/bottom boundaries
-  padding-inline: 2rem;
-  margin-bottom: 1rem; //background portion
+// blocks
+.red-block { // backround block with color
+  background-color: $light-red;
+  padding-block: 2rem; // colored portion block: top/bottom boundaries
+  padding-inline: 2rem; // side padding
+  margin-bottom: 2rem; // background portion
 }
 
-.block1 {
-  background-color: $red;
+.gray-block { // backround block with color
+  background-color: $light-purple;
+  padding-block: 2rem; // colored portion block: top/bottom boundaries
+  padding-inline: 2rem; // side padding
+  margin-bottom: 2rem; // background portion
 }
 
-//footer
+
+// footer
 footer.footer {
   color: $red;
 }
 
+// padding
 #no-padding {
   margin-top: 0em;
   margin-bottom: 0em;
 }
 
-//resize pdf viewer window
+// resize pdf viewer window
 .resize {
   overflow: auto;
   resize: vertical;
   height: 750px;
 }
 
-.iframe-style {
+.iframe-style { // pdf viewer window resizer
   overflow: auto;
   width: 100%;
   height: 99%;
   min-height: 100%;
 }
+
+.center {
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+

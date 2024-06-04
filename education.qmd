@@ -8,17 +8,14 @@ todo:
   - add descriptions for last 2
   - futrue: add blog posts for relevant coursework
 ---
-::: {.d-inline-flex style="align-items:baseline"}
+
+::: {.gray-block}
 ::: {.logo}
 ![](logos/UCSBlogo.png){fig-alt="University of California Santa Barbara Logo" height="40"}
 :::
 
-[University of California, Santa Barbara]{.h2} 
-::: {.programdate}
-Sep 2020 -- Jun 2024
-:::
+[University of California, Santa Barbara]{.h2} [Sep 2020 -- Jun 2024]{.programdate}
 
-:::
 
 
 [Bachelor of Science Environmental Studies]{.h4}
@@ -31,16 +28,17 @@ Sep 2020 -- Jun 2024
     -   2020-2023: Dean's list: 7 quarters
     -   2022: UCSB Griffiths Charitable EAP Scholarship ($2,350)
     -   2021: Stapelmann Scholarship ($2,000)
+:::
 
 <!-- extra line -->
 <br> 
 
-::: {.d-inline-flex style="align-items:baseline"}
+::: {.gray-block}
 ::: {.logo}
 ![](logos/ceclogo.png){fig-alt="California Ecology and Conservation Logo" height="40"}
 :::
 [California Ecology and Conservation]{.h2} [Jun 2023 -- Aug 2023]{.programdate}
-:::
+
 
 [Program Participant \| University of California Nature Reserve System]{.h4}
 
@@ -51,18 +49,20 @@ Sep 2020 -- Jun 2024
 -   Analyzed field data with JMP Statistical Software and Microsoft Excel.
 -   Utilized various field and lab tools, instruments, and equipment.
 -   Gained familiarity with ecological concepts and California flora and fauna identification.
+:::
 
 <br>
 
-
-::: {.d-inline-flex style="align-items:baseline"}
+::: {.gray-block}
 ::: {.logo}
 ![](logos/nuslogo.png){fig-alt="National University of Singapore Logo" height="40"}
 :::
 [National University of Singapore]{.h2} [Jul 2022 -- Dec 2022]{.programdate}
-:::
+
 
 [Exchange Program \| University of California Education Abroad Program]{.h4}
 
 
 My desire to travel the world and learn from a new physical and mental perspective led me to a semester abroad on an exchange program at the University of Singapore in Singapore. Located
+:::
+

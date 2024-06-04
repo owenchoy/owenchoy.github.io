@@ -1,13 +1,35 @@
 ---
 title: "Quokka Conservation Act of 2022"
 # description: 
-author: Owen Choy
-date: 07-22-2023
+# author: Owen Choy
+date: 11-22-2021
 image: quokka.jpg
 toc: false
+editor_options: 
+  chunk_output_type: console
 ---
 
-This is
+# [The Motivation]{.red-text}
+
+This is a quokka!
+
+::: {.center}
+![](quokka.jpg){height=600px}
+:::
+
+<br>
+
+This marsupial is often regarded as the happiest animal on the planet! 
+And of course, the product of me and my collaborators' work was also the fulfillment of the development of my interpersonal skills. I learned a lot about patience, collaboration, and how to deal with roadblocks within the group and project. My team and I were under a strict time crunch for this project. The whole thing was conceptualized, piloted, reworked, fully conducted, statistically analyzed, written, presented, and prepared for publication in the span of two weeks. That left very little room for fixing errors or time to refine the research process. We spent long hours in the sun, water, and in waders. ****coninue later******
+
+
+# [The Project]{.red-text}
+
+During this research project, I learned a lot about the ecology of freshwater stream systems, algae and diatoms, aquatic macroinvertebrate identification, data analysis using JMP Software, and paper writing. My projects and research in the past usually dealt with stationary components: plants and with my feet planted on the ground (quadrats are so much easier to analyze when they're not moving!). So trudging my way through chest-high waters while collecting samples of wavering pieces of algae without getting water into my waders was quite the experience. The macro- and microinvertebrates constantly moving around in our little petri dishes while trying to pick them up and identify them under a microscope is hard to forget, too. But the experience was rewarding. On an ecological level, I learned about algae and diatoms and their trophic interactions and their role in stream health. I learned about the orders and groups of some common macroinvertebrates in freshwater streams and how to identify them. I even started to dive into the minute world of aquatic microorganisms because I was fascinated by the tiny dots that can barely be seen with the naked eye darting around in the water (which was beyond the scope of our project but amazing to see!). 
+
+
+
+# [The Product]{.red-text}
 
 <div class="resize">
 <iframe src="quokka.pdf" class="iframe-style"></iframe>
