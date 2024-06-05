@@ -5,12 +5,10 @@ date: 08-22-2023
 image: algae.jpg 
 toc: false
 
-todo:
-  - future: add photos of research experience
-  
-questions:
-  - how to change title banner margin-bottom
-  - how to change margin above 'The Project'
+future todo:
+  - add photos of research experience
+  - add (Google? instead of photo) map of location
+
 ---
 
 # [The Project]{.red-text}
