@@ -14,6 +14,8 @@ todo:
 
 This research paper is the product of a research project I conducted with three other University of California undergraduate students during our California Ecology and Conservation program in the summer of 2023. This study was conducted on the South Fork Eel River in the Angelo Coast Range Reserve in northern California. Under a 5-day period of data collection and over just a 2-week span, we examined the effect of stream water flow characteristics on the abundance of algae and diatoms in the river, as well as how both of these factors influenced aquatic macroinvertebrate density and community composition. We spent long days traversing through the river to collect water and periphyton samples to analyze in our makeshift lab the same evening. We shared our research process and our findings in a PowerPoint presentation to an audience comprised of our program instructors, other fellow undergraduates, and their family members. Our paper was published a few months later in a collection of the cohort's research projects. 
 
+<br>
+
 ![](phenology.jpg)
 <p class="caption">
 The study site: the South Fork Eel River.

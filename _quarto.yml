@@ -9,7 +9,7 @@ website:
   # title: "Owen Choy"
   navbar:
     pinned: true
-    logo: logos/owen choy logos/owen choy black and green.png
+    logo: logos/owen choy logos/owen choy red rounded.png
     left:
       - href: index.qmd
         text: About Me
@@ -32,7 +32,7 @@ website:
       Last Updated: June 2024
     right: Built with [Quarto](https://quarto.org/){target=_blank}
     
-  favicon: logos/owen choy logos/owen choy black and green.png
+  favicon: logos/owen choy logos/owen choy red rounded.png
   # sidebar: # https://quarto.org/docs/reference/projects/websites.html#sidebar
     # style: docked
     
