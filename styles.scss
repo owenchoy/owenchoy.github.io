@@ -195,6 +195,11 @@ footer.footer {
   color: $red;
 }
 
+#quarto-appendix.default { // hide defualt footer
+  display: none;
+}
+
+
 // padding
 #no-padding {
   margin-top: 0rem;

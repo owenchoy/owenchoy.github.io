@@ -1,5 +1,5 @@
 ---
-title: "Algae and Diatoms: The Home of Aquatic Macroinvertebrate Communities"
+title: "River Food Webs: Periphyton and Macroinvertebrate Relationships with Water Flow Rate"
 description: My first published research paper!
 date: 08-22-2023
 image: algae.jpg 
@@ -15,7 +15,11 @@ questions:
 
 # [The Project]{.red-text}
 
-This research paper is the product of a research project I conducted with three other University of California undergraduate students during our California Ecology and Conservation program in the summer of 2023. This study was conducted on the South Fork Eel River in the Angelo Coast Range Reserve in northern California. Under a 5-day period of data collection and over just a 2-week span, we examined the effect of stream water flow characteristics on the abundance of algae and diatoms in the river, as well as how both of these factors influenced aquatic macroinvertebrate density and community composition. We spent long days traversing through the river to collect water and periphyton samples to analyze in our makeshift lab the same evening. We shared our research process and our findings in a PowerPoint presentation to an audience comprised of our program instructors, other fellow undergraduates, and their family members. Our paper was published a few months later in a collection of the cohort's research projects. 
+This research paper is the product of a research project I conducted with three other UC undergraduate students during our California Ecology and Conservation program in the summer of 2023. The study was conducted on the South Fork Eel River in the Angelo Coast Range Reserve in northern California. We focused our study on algae and diatoms, two types of primary producers highly prevalent in the Eel River that grow horizontally and vertically from the bottom of the river (referred to as periphyton). Across a 5-day period of data collection and over just a 2-week span, we examined the effect of stream water flow characteristics on the abundance of algae and diatoms in the river, as well as how both of these factors influenced the aquatic macroinvertebrate density and community composition that lived within the producers. 
+
+<br>
+
+Our findings have greater implications in conservation and management, providing experimental evidence to support the protection of streams. We found that the flow of the water in the stream influenced the abundance of periphyton and macroinvertebrate density, which form the base of the food web in river ecosystems. This means that any abnormal impact on water flow from causes such as dams, stream diversion for agriculture, or the effects of climate change can have a cascading effect on the ecosystem. For instance, too much water at a high velocity can wash away periphyton and aquatic macroinvertebrates. On the other hand, too little water, especially in the summer when the water level is naturally low, can cause periphyton to become stagnate and decompose, releasing large amounts of nutrients that are ideal for harmful cyanobacteria to grow. The sensitivity of river ecosystems due to variability in stream flow make the preservation and close monitoring of this ecosystem highly critical.
 
 <br>
 
@@ -33,6 +37,8 @@ During this research project, I learned a lot about the ecology of freshwater st
 
 And of course, the product of me and my collaborators' work was also the fulfillment of the development of my interpersonal skills. I learned a lot about patience, collaboration, and how to deal with roadblocks within the group and project. My team and I were under a strict time crunch for this project. The whole thing was conceptualized, piloted, reworked, fully conducted, statistically analyzed, written, presented, and prepared for publication in the span of two weeks. That left very little room for fixing errors or time to refine the research process. We spent long hours in the sun, water, and in waders. ****coninue later******
 
+
+We spent long days traversing through the river to collect water and periphyton samples to analyze in our makeshift lab the same evening. We shared our research process and our findings in a PowerPoint presentation to an audience comprised of our program instructors, other fellow undergraduates, and their family members. Our paper was published a few months later in a collection of the cohort's research projects. 
 
 # [The Product]{.red-text}
 
