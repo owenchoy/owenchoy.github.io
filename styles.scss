@@ -9,8 +9,8 @@ $sarabun: "Sarabun";
 
 // Colors
 $cream: #FFFCF7;
-$light-red: #ffe8e8;
-$light-gray: #ededed;
+$light-red: #ffebeb;
+$light-gray: #eeeeee;
 $light-purple: #ede3ef;
 
 $gray: #656565;
@@ -52,18 +52,24 @@ $code-color: $red; // inline code text color
 
 // title banner
 #title-block-header.quarto-title-block.default .description {
-  color: $cream; //working
+  color: $cream; // working
   margin-top: 0.5rem !important; // working
 }
 
 #title-block-header.quarto-title-block.default .quarto-title .title {
-  color: $main-color; //working
+  color: $main-color; // working
 }
 
-.title { //title for each page WORKS!
+.title { // title for each page WORKS!
   color: $main-color;
   font-size: $title-font-size;
-  margin-bottom: 100rem;
+}
+
+@media (min-width: 992px) { // margin on top/bottom of title text
+  .quarto-title-banner {
+      padding-top: 4rem !important;
+      padding-bottom: 2em !important;
+  }
 }
 
 // description title, subtitle
@@ -78,14 +84,7 @@ $code-color: $red; // inline code text color
     margin-top: -1px;
 }
 
-// main blog content chunk
-main {
-    margin-top: 0em !important;
-    margin-bottom: 1em;
-}
-
 // font 
-
 .red-text{ // red text
   color: $main-color;
 }
@@ -111,7 +110,7 @@ main {
   padding-top: 2em;
 }
 
-// settings for heading text (not working)
+// settings for heading text
 .h4 {
   color: $red;
 }
@@ -126,8 +125,9 @@ h5, .h5 {
   line-height: 1.4 !important;
 }
 
-.h2 {
-  color: $red;
+h2, .h2 {
+  color: $red !important;
+  border-bottom: none !important;
 }
 
 b {
@@ -140,7 +140,7 @@ p { //normal text
   color: inherit;
   font-family: Sarabun;
   margin-top: 0rem;
-  margin-bottom: 0rem; // currently overriden
+  margin-bottom: 0rem !important; // currently overriden
 }
 
 // navbar 
@@ -179,7 +179,7 @@ p { //normal text
 }
 
 .gray-block { // backround block with color
-  background-color: $light-purple;
+  background-color: $light-gray;
   padding-block: 2rem; // colored portion block: top/bottom boundaries
   padding-inline: 2rem; // side padding
   margin-bottom: 2rem; // background portion
@@ -189,6 +189,7 @@ p { //normal text
   margin-top: 0rem;
   margin-bottom: 1rem;
 }
+
 // footer
 footer.footer {
   color: $red;
@@ -196,8 +197,13 @@ footer.footer {
 
 // padding
 #no-padding {
-  margin-top: 0em;
-  margin-bottom: 0em;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+#school-padding {
+  margin-top: 0.7rem;
+  margin-bottom: 0.3rem;
 }
 
 // resize pdf viewer window
@@ -221,8 +227,10 @@ footer.footer {
   text-align: center;
 }
 
-.rounded-photo {
-  border-radius: 50%;
+// elements
+.underline1 {
+  border-bottom: 1.2px solid #b3b3b3;
+  margin-bottom: 1rem;
 }
 
 

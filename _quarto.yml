@@ -55,6 +55,7 @@ format:
       body-width: 900px # slightly wider body than default
       margin-width: 250px
       gutter-width: 1rem
+    # reference-location: margin
     # page-layout: full
     
 
