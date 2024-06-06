@@ -1,6 +1,6 @@
 ---
 title: "Snowfall: The effect on the phenology of montane chaparral plants"
-description: solo paper
+description: A solo research paper.
 # author: Owen Choy
 date: 07-22-2023
 image: phenology.jpg
@@ -30,14 +30,9 @@ Montane chaparral plants in the foreground in the Sierra Nevada.
 
 Writing this paper was quite the accomplishment for me. This was the first full-length research paper I had written from research that I had conducted. The deadline was extremely tight with only 10 days total for conceptualizing the study, conducting background literature research, running pilot tests, performing field and online research, and presenting our findings; and within that period, only 4 days of paper writing. 4 days to write a full-length research paper! Across all four days, my team members constantly found me laying or sitting in bed, typing away at my laptop. We were in a cabin in Yosemite: no desks, limited internet access, and stuck inside working instead of being outside enjoying one of the most beautiful places in the country. Sometimes, when I was tired of my bed, my friends found me standing on the mini staircase of our cabin, finding the next best thing to a standing desk to stretch out my legs while I worked myself away. 
 
-But all the long nights, early mornings, and skipped meals were worth it. When I received my grade back
+<br>
 
-- spending long hours writing
-- tight deadline
-- yosemite
-- no desk, in bed/stairs
-- sacrificing time
-- the acccomplishment (many rename section title): earned highest grade, hard work pays off, in a room full of nerds
+But all the long nights, early mornings, and skipped meals were worth it. The relief I felt after submitting my paper for grading was only surpassed by the joy from seeing my grade. Shortly after the professors explained they were grading our papers hard so that we understood what we needed to improve upon, I found myself face to face with an A letter grade, the only one in my cohort. I was relieved that after all the work I put into the project, it was recognized by my superiors and paid off nicely. But the achievement was more than that. Since the start of the program, it was evident to me that I lacked the experience and drive my fellow classmates had. I hadn't worked in a research lab. I wasn't working 3 jobs with another one already lined up after graduation. I wasn't an expert in any specific area like many of my classmates were. In a class full of some of the brightest students in ecology, biology, and environmental sciences/studies across the UCs, I found my place among them. I wasn't concerned about gaining respect from others, but I gained a lot of respect for myself. I learned that even when I may be surrounded and outshone by peers that are more experienced or more knowledgable than I am, I can still excel as myself and my own qualities will find a way to shine in the right moment. 
 
 
 # [The Product]{.red-text}
