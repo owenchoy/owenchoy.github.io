@@ -27,13 +27,13 @@ About Me
 </h1>
 
 <h5 id="no-padding">
-Hey there! I am currently an undergraduate student at the University of California, Santa Barbara. I am graduating this year (2024) with a [BS in Environmental Studies]{.red-bold}. My broad background includes a wide range of fields including [ecology]{.red-bold}, [conservation]{.red-bold}, [sustainability]{.red-bold}, [environmental monitoring and planning]{.red-bold}, [green building]{.red-bold}, [renewable energy systems]{.red-bold}, and [climate change mitigation]{.red-bold}. Recently, I have been picking up skills in online applications, including coding in Python and R, statistical analysis using JMP Statistical Software and R, and documentation with Quarto. [I am currently looking for an entry-level position in any of these fields]{.red-bold} in the Bay Area or Orange County in California. 
+Hey there! I am currently an undergraduate student at the University of California, Santa Barbara. I am graduating this year (2024) with a [Bachelor of Science in Environmental Studies]{.red-bold}. My broad background includes a wide range of fields including [ecology]{.red-bold}, [conservation]{.red-bold}, [sustainability]{.red-bold}, [environmental monitoring and planning]{.red-bold}, [green building]{.red-bold}, [renewable energy systems]{.red-bold}, and [climate change mitigation]{.red-bold}. Recently, I have been picking up skills in online applications, including coding in Python and R, statistical analysis using JMP Statistical Software and R, and documentation with Quarto. [I am currently looking for an entry-level position in any of these fields]{.red-bold} in the Bay Area or Orange County in California. 
 </h5>
 
 <br>
 
 <h5>
-Beyond studying, collecting data in the field or running tests in the lab, I spend lots of my time outdoors. I have a strong passion for sports, with basketball being my longtime favorite and intermittent play in football, volleyball, soccer, ultimate frisbee, ping pong, spikeball, and crossnet! I enjoy hiking and tidepooling and admiring the wildlife around me. Indoors, I like to play board games like strategy games, social deduction games, and card games. I also tremendously enjoy cooking and baking and am always looking to try a new recipe!
+Beyond studying, collecting data in the field or running tests in the lab, I spend lots of my time outdoors. I have a strong passion for sports, with basketball being my longtime favorite and intermittent play in football, volleyball, soccer, ultimate frisbee, ping pong, spikeball, and crossnet. I enjoy hiking and tidepooling and admiring the wildlife around me. Indoors, I like to play board games like strategy games, social deduction games, and card games. I also tremendously enjoy cooking and baking and am always looking to try a new recipe!
 </h5>
 
 

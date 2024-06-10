@@ -25,7 +25,7 @@ todo:
 
 -   GPA: 3.89/4.00
 -   Relevant Coursework: Environmental Impact Analysis, Environmental Planning, Conservation Planning, Climate Change Mitigation Strategies, Water Supply & Demand
--   Awards and Scholarships
+-   Awards and Scholarships:
     -   2024: College of Letters and Science Honors
     -   2023: Starting Lines Award for Photography
     -   2020-2023: Dean's list: 7 quarters
@@ -51,7 +51,7 @@ todo:
 
 [Program Participant \| University of California Nature Reserve System]{.h4}
 
-In the summer of 2023, I participated in [California Ecology and Conservation](https://ucnrs.org/teaching/cec/), a field study program hosted by the UC Nature Reserve System (NRS). Over the course of 7 weeks, a cohort of undergraduate students from various UC campuses and I traveled to 5 different NRS nature reserves to learn about various topics in ecology, biology, field research, experimental design, statistical analysis, and scientific writing and presenting. Field research methods I conducted included sub-sampling techniques, water sampling, physical tree measurements, phenological data collection, and aquatic macroinvertebrate identification. I analyzed field data with JMP Statistical Software and Microsoft Excel and gained familiarity of a variety of flora and fauna across California The progression of my work culminated into several research projects that included a paper and a presentation. I played a large role in three research projects studying:
+In the summer of 2023, I participated in [California Ecology and Conservation](https://ucnrs.org/teaching/cec/), a field study program hosted by the UC Nature Reserve System (NRS). Over the course of 7 weeks, a cohort of undergraduate students from various UC campuses and I traveled to 5 different NRS nature reserves to learn about various topics in ecology, biology, field research, experimental design, statistical analysis, and scientific writing and presenting. Field research methods I conducted included sub-sampling techniques, water sampling, physical tree measurements, phenological data collection, and aquatic macroinvertebrate identification. I analyzed field data with JMP Statistical Software and Microsoft Excel and gained familiarity of a variety of flora and fauna across California. The progression of my work culminated several research projects that included a paper and a presentation. I played a large role in three research projects studying:
 
 -   the correlation between dead biomass and the presence pitch canker disease in Monterey Pines
 
@@ -76,7 +76,7 @@ In the summer of 2023, I participated in [California Ecology and Conservation](h
 
 [Exchange Program | University of California Education Abroad Program]{.h4}
 
-My desire to travel the world and learn from a new physical and mental perspective led me to a semester abroad on an exchange program at the National University of Singapore in Singapore. Located over 8,000 miles away from home, I had no trouble getting accustomed to the physical and cultural environment. I fell in love with the nation through its amazing food, people, natural (and unnatural) landscapes, built infrastructure, public transportation system, and the nation's drive to be a global leader in business and sustainability despite its small size. I took classes on the social perspectives of public infrastructure, weather and climate, energy systems, and the influence of Western classical music on Singapore's history and present state. But above that, I learned what it was like to live in a different country, surrounded by people with perspective drastically different than my own. It was an enriching experience that I hope to continue someday in the future.^[I made a (very rough) guide to Singapore tourism and food. If you are interested in it, feel free to send me an email at owenchoy02@gmail.com!]
+My desire to travel the world and learn from a new physical and mental perspective led me to a semester abroad on an exchange program at the National University of Singapore in Singapore. Located over 8,000 miles away from home, I had no trouble getting accustomed to the physical and cultural environment. I fell in love with the nation through its amazing food, people, natural (and unnatural) landscapes, built infrastructure, public transportation system, and the nation's drive to be a global leader in business and sustainability despite its small size. I took classes on the social perspectives of public infrastructure, weather and climate, energy systems, and the influence of Western classical music on Singapore's history and present state. But above that, I learned what it was like to live in a different country, surrounded by people with perspectives drastically different than my own. It was an enriching experience that I hope to continue someday in the future.^[I made a (very rough) guide to Singapore tourism and food. If you are interested in it, feel free to send me an email at owenchoy02@gmail.com!]
 
 
 :::
