@@ -8,39 +8,27 @@ toc: false
 editor_options: 
   chunk_output_type: console
 draft: true
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-M1TLPMSPTR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-M1TLPMSPTR');
-</script>
 ---
 
 # [The Motivation]{.red-text}
 
 This is a quokka!
 
-::: {.center}
-![](quokka.jpg){height=600px}
+::: center
+![](quokka.jpg){height="600px"}
 :::
 
 <br>
 
-
-
 # [The Project]{.red-text}
-
-
 
 # [The Product]{.red-text}
 
-<div class="resize">
-<iframe src="quokka.pdf" class="iframe-style"></iframe>
-</div>
+::: resize
+<iframe src="quokka.pdf" class="iframe-style">
+
+</iframe>
+:::
 
 <br>
 

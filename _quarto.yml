@@ -23,6 +23,9 @@ website:
         href: https://github.com/owenchoy
       - icon: envelope
         href: mailto:owenchoy02@gmail.com
+  google-analytics:
+    tracking-id: G-M1TLPMSPTR
+    # storage: none
         
   page-footer:
     background: dark
@@ -39,10 +42,6 @@ website:
   search: 
     location: navbar
     type: textbox
-  
-  # google-analytics: 
-  #   tracking-id: G-M1TLPMSPTR
-  #   storage: none
   
 format:
   html:

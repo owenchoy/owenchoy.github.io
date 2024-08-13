@@ -1,6 +1,6 @@
 ---
 title: "River Food Webs: Periphyton and Macroinvertebrate Relationships with Water Flow Rate"
-description: My first published research paper!
+description: My first published research paper.
 date: 08-22-2023
 image: algae.jpg 
 toc: false
@@ -9,15 +9,6 @@ future todo:
   - add photos of research experience
   - add (Google? instead of photo) map of location
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-M1TLPMSPTR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-M1TLPMSPTR');
-</script>
 ---
 
 # [The Project]{.red-text}

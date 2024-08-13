@@ -280,3 +280,7 @@ a { // all links element selector
 a:hover { // all links have an underline when mouse hovers over
             text-decoration: underline !important;
         }
+        
+a.nav-link {
+  text-decoration: none !important;
+}

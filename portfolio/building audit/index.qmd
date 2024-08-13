@@ -6,15 +6,6 @@ date: 03-20-2023
 image: UCEN.jpg
 toc: false
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-M1TLPMSPTR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-M1TLPMSPTR');
-</script>
 ---
 
 # [The Project]{.red-text}
