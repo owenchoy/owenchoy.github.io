@@ -23,8 +23,7 @@ website:
         href: https://github.com/owenchoy
       - icon: envelope
         href: mailto:owenchoy02@gmail.com
-  google-analytics:
-    tracking-id: G-M1TLPMSPTR
+  google-analytics: "G-M1TLPMSPTR"
     # storage: none
         
   page-footer:
@@ -42,6 +41,9 @@ website:
   search: 
     location: navbar
     type: textbox
+    
+  #creates a preview when the link is pasted: https://quarto.org/docs/websites/website-tools.html#open-graph
+  open-graph: true 
   
 format:
   html:
