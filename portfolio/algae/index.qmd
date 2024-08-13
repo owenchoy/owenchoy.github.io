@@ -9,6 +9,15 @@ future todo:
   - add photos of research experience
   - add (Google? instead of photo) map of location
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M1TLPMSPTR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M1TLPMSPTR');
+</script>
 ---
 
 # [The Project]{.red-text}

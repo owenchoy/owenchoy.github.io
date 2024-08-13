@@ -165,8 +165,14 @@ p { //normal text
   margin-bottom: 0em;
 }
 
+.right {
+  text-align: right;
+  float: right;
+  object-position: right;
+}
+
 .logo {
-  align-content: baseline;
+  align-content: right;
   padding: 0em;
 }
 
@@ -180,7 +186,7 @@ p { //normal text
 
 .gray-block { // backround block with color
   background-color: $light-gray;
-  padding-block: 2rem; // colored portion block: top/bottom boundaries
+  padding-block: 1.5rem; // colored portion block: top/bottom boundaries
   padding-inline: 2rem; // side padding
   margin-bottom: 2rem; // background portion
 }
@@ -211,6 +217,10 @@ footer.footer {
   margin-bottom: 0.3rem;
 }
 
+.first-line {
+  margin-top: 0.3rem;
+}
+
 // resize pdf viewer window
 .resize {
   overflow: auto;
@@ -238,7 +248,6 @@ footer.footer {
   margin-bottom: 1rem;
 }
 
-
 // column splitting
 .two-columns {
   display: grid;
@@ -262,3 +271,12 @@ footer.footer {
   padding: 10px;
   border: 1px solid #ccc;
 }
+
+// links
+a { // all links element selector
+  text-decoration: none !important;
+}
+
+a:hover { // all links have an underline when mouse hovers over
+            text-decoration: underline !important;
+        }

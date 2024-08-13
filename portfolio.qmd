@@ -7,6 +7,16 @@ listing:
   sort: "date desc" # can also sort on more than one field
   categories: false # allows you to sort posts by assigned categories 
 toc: false
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M1TLPMSPTR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M1TLPMSPTR');
+</script>
 ---
 
 ::: {.red-block}
