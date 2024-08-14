@@ -157,7 +157,7 @@ p { //normal text
 .programdate {
   text-align: right;
   float: right;
-  font-size: $normal-font-size;
+  font-size: 1rem;
   font-weight: 300;
   color: $black;
   font-style: italic;
@@ -179,9 +179,15 @@ p { //normal text
 // blocks
 .red-block { // backround block with color
   background-color: $light-red;
-  padding-block: 2rem; // colored portion block: top/bottom boundaries
+  padding-block: 1.5rem; // colored portion block: top/bottom boundaries
   padding-inline: 2rem; // side padding
   margin-bottom: 2rem; // background portion
+}
+
+#red-block-text {
+  font-size: 1.1rem !important;
+  font-weight: $bigger-font-weight !important;
+  line-height: 1.4 !important; // line spacing 
 }
 
 .gray-block { // backround block with color
@@ -205,9 +211,8 @@ footer.footer {
   display: none;
 }
 
-
 // padding
-#no-padding {
+.no-padding {
   margin-top: 0rem;
   margin-bottom: 0rem;
 }

@@ -9,6 +9,12 @@ todo:
 
 ---
 
+::: {.red-block}
+<p id="red-block-text">
+College is a wonderful experience. However, from meeting tons of new faces to making lifelong memories, the knowledge you gained and the ideas you learned can often be overlooked and forgotten. Especially since each day can be the same: from waking up for your morning lecture to having lunch on the same lawn to studying in the same spot in the library day after day. I didn't want four years of learning like that, so I sought to expand my educational experience beyond the typical classroom. Here I outline not just my educational synopsis, but also how I elevated my undergraduate educational experience beyond just class inside a lecture hall. 
+</p>
+:::
+
 ::: gray-block
 ::: logo
 ::: right
@@ -27,8 +33,8 @@ todo:
 [Bachelor of Science Environmental Studies]{.h4}
 
 ::: first-line
--   Cumulative GPA: 3.90 (High Honors/Magna Cum Laude)
 -   Graduated: June 2024
+-   Cumulative GPA: 3.90 (High Honors/Magna Cum Laude)
 -   Relevant Coursework: Environmental Impact Analysis, Environmental Planning, Conservation Planning, Ecological Restoration, Green Building, Statistics for Environmental Science, Climate Change Mitigation Strategies, Water Supply & Demand
 -   Awards and Scholarships:
     -   2024: College of Letters and Science Honors
