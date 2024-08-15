@@ -55,16 +55,13 @@ $code-color: $red; // inline code text color
   color: $cream; // working
   margin-top: 0.5rem !important; // working
 }
-
 #title-block-header.quarto-title-block.default .quarto-title .title {
   color: $main-color; // working
 }
-
 .title { // title for each page WORKS!
   color: $main-color;
   font-size: $title-font-size;
 }
-
 @media (min-width: 992px) { // margin on top/bottom of title text
   .quarto-title-banner {
       padding-top: 4rem !important;
@@ -88,12 +85,10 @@ $code-color: $red; // inline code text color
 .red-text{ // red text
   color: $main-color;
 }
-
 .red-bold { // custom bold font
   font-weight: 1000;
   color: $main-color;
 }
-
 
 // photo captions
 .caption {
@@ -106,34 +101,25 @@ $code-color: $red; // inline code text color
   padding-bottom: 0em;
 }
 
-.top-padding {
-  padding-top: 2em;
-}
-
 // settings for heading text
 .h4 {
   color: $red;
 }
-
 p.h4 {
   margin-top: 1rem;
   margin-bottom: 0rem;
 }
-
 h5, .h5 {
   font-weight: $bigger-font-weight !important;
   line-height: 1.4 !important;
 }
-
 h2, .h2 {
   color: $red !important;
   border-bottom: none !important;
 }
-
 b {
   line-height: 1.5 !important;
 }
-
 p { //normal text
   font-size: $normal-font-size;
   font-weight: $normal-font-weight;
@@ -148,7 +134,6 @@ p { //normal text
   max-height: 40px;
   width: auto;
 }
-
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show { // navbar selected tab color
   color: $red !important;
 }
@@ -164,13 +149,11 @@ p { //normal text
   margin-top: 0em;
   margin-bottom: 0em;
 }
-
 .right {
   text-align: right;
   float: right;
   object-position: right;
 }
-
 .logo {
   align-content: right;
   padding: 0em;
@@ -183,20 +166,17 @@ p { //normal text
   padding-inline: 2rem; // side padding
   margin-bottom: 2rem; // background portion
 }
-
 #red-block-text {
   font-size: 1.1rem !important;
   font-weight: $bigger-font-weight !important;
   line-height: 1.4 !important; // line spacing 
 }
-
 .gray-block { // backround block with color
   background-color: $light-gray;
   padding-block: 1.5rem; // colored portion block: top/bottom boundaries
   padding-inline: 2rem; // side padding
   margin-bottom: 2rem; // background portion
 }
-
 .block-title {
   margin-top: 0rem;
   margin-bottom: 1rem;
@@ -206,7 +186,6 @@ p { //normal text
 footer.footer {
   color: $red;
 }
-
 #quarto-appendix.default { // hide defualt footer
   display: none;
 }
@@ -216,14 +195,19 @@ footer.footer {
   margin-top: 0rem;
   margin-bottom: 0rem;
 }
-
 #school-padding {
   margin-top: 0.7rem;
   margin-bottom: 0.3rem;
 }
-
 .first-line {
   margin-top: 0.3rem;
+}
+.top-padding {
+  padding-top: 2em;
+}
+.img-padding {
+  //padding-top: 40px;
+  padding-inline: 40px;
 }
 
 // resize pdf viewer window
@@ -232,7 +216,6 @@ footer.footer {
   resize: vertical;
   height: 750px;
 }
-
 .iframe-style { // pdf viewer window resizer
   overflow: auto;
   width: 100%;
@@ -245,6 +228,10 @@ footer.footer {
   align-content: center;
   align-items: center;
   text-align: center;
+}
+.side-by-side {
+  display: flex; 
+  align-items: center;
 }
 
 // elements
@@ -262,7 +249,6 @@ footer.footer {
   align-items: center;
   text-align: center; // only effect
 }
-
 .column {
   padding: 10px;
   border: 1px solid #ccc;
@@ -270,7 +256,6 @@ footer.footer {
   align-items: center;
   text-align: center;
 }
-
 .one-column {
   margin-top: 20px;
   padding: 10px;
@@ -281,11 +266,9 @@ footer.footer {
 a { // all links element selector
   text-decoration: none !important;
 }
-
 a:hover { // all links have an underline when mouse hovers over
             text-decoration: underline !important;
         }
-        
 a.nav-link {
   text-decoration: none !important;
 }

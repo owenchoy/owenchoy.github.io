@@ -12,15 +12,32 @@ draft: true
 
 # [The Motivation]{.red-text}
 
-This is a quokka!
+::: side-by-side
+This is a quokka! This fuzzy marsupial is known as the world's happiest animal. This is because they can often be found smiling, and selfies with these adorable creatures have become an internet sensation. The quokka (*Setonix brachyurus*) can only be found in southwest Australia in swamps and scrublands, and on two nearby islands. Several years ago, I had the extraordinary opportunity to visit one of these islands, Rottnest Island, which is where I captured the photo on the right. Ever since then, I have fallen in love with these creatures. Rottnest Island is visited by thousands of tourists a year, so the abundant quokka population on the island is well suited to humans. However, the population of the entire species has been on a downward trend, primarily from introduced predators, climate change, and landclearing for agriculture and human development. [The International Union for Conservation of Nature's (IUCN) Red List of Threatened Species](https://www.iucnredlist.org/species/20165/166611530) clasifies the quokka as "Vulnerable," just a tier above "Endangered." As you can see, it is crucial to establish legislation to protect these marsupials. 
 
+<br>
+
+<div>
 ::: center
-![](quokka.jpg){height="600px"}
+::: img-padding
+![](quokka.jpg){height="400px"}
+:::
+:::
+<p class="caption">
+Quokka (*Setonix brachyurus*)
+</p>
+</div>
 :::
 
 <br>
 
+That is why I developed the Quokka Conservation Act of 2021. The quokka is a range-restricted species endemic to southwest Australia, which means that it is native to the area and found nowhere else on the planet. This makes the species especially vulnerable to climate change because if the environment they currently reside in changes too drastically, they may go extinct. Writing a conservation bill like this can benefit the species by raising awareness for them and by establishing funds, resources, new objectives for wildlife protection groups, and hopefully even widespread ambition among the public to protect these creatures. 
+
+<br>
+
 # [The Project]{.red-text}
+
+
 
 # [The Product]{.red-text}
 
